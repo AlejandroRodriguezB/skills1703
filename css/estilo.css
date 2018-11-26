@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #2770ba;
+}
+
+#column-left{
+width: 60%;
+padding-left: 15px;
+padding-top: 60px;
+float: left;
+display: table-cell;
+background-color: #40e0d0;
+}
+
+#column-right{
+    width: 38%;
+    padding-right: 10px;
+    padding-top: 60px;
+    float: right;
+    background-color: #33b2a5;
+    }
+
+#content{
+    clear: both;
+    display: table;
+    text-align: center;
+    margin: 0;
+    padding: 0;    
+}
+
+footer{
+    margin: 0;
+    padding: 0;
+    background-color: #279eba
+}
+
+nav{
+    margin: 0;
+    padding: 0;
+    background-color: #279eba;
+}
